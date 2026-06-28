@@ -748,33 +748,33 @@ export default function PageMain(): React.ReactElement {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <ProjectCard
               index={0}
-              title="Neo Brut"
-              category="NextJS / neubrutalism"
-              description="I built a small UI library in a neo-brutalism style to power a real-time messaging app with clean components and secure auth."
+              title="Aether Gride"
+              category="NextJS / SaaS"
+              description="A modern web platform deployed on Vercel for fast, interactive enterprise workflows."
               color="bg-pink-500"
               image="/pro-2.png"
-              link="https://neo-brut.vercel.app/"
-              githubLink="https://github.com/aayushsinha30/Neo-Brut"
+              link="https://aether-gride-production.vercel.app/"
+              githubLink="#"
             />
             <ProjectCard
               index={1}
-              title="Sarathi AI"
-              category="AI API Integration"
-              description="An AI guide that shares lessons from the Gita to help you grow, built on a modern Next.js stack."
+              title="Voter Ten Tan"
+              category="NextJS / Voting"
+              description="A secure voting interface with a polished UI for reliable decision-making."
               color="bg-red-500"
               image="/pro-1.png"
-              link="https://sarathi-ai-topaz.vercel.app/"
-              githubLink="https://github.com/aayushsinha30/sarathi-ai"
+              link="https://voter-ten-tan.vercel.app/"
+              githubLink="#"
             />
             <ProjectCard
               index={2}
-              title="Hungrr"
-              category="React/NodeJS"
-              description="Food ordering app for Café Scan QR. It handles the menu, live orders, and payments with a fast user experience."
+              title="Agrix Ivory"
+              category="NextJS / Agritech"
+              description="An agriculture-focused dashboard designed for smarter farm operations and insight."
               color="bg-yellow-400"
               image="/pro-3.png"
-              link="https://hungrr.in/"
-              githubLink="https://github.com/aayushsinha30/Hungrr"
+              link="https://agrix-ivory.vercel.app/"
+              githubLink="#"
             />
 
             <div className="col-span-1 md:col-span-2 lg:col-span-3 flex justify-center w-full">
