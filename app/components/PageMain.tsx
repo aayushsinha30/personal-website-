@@ -752,7 +752,7 @@ export default function PageMain(): React.ReactElement {
               category="NextJS / SaaS"
               description="A modern web platform deployed on Vercel for fast, interactive enterprise workflows."
               color="bg-pink-500"
-              image="https://s.wordpress.com/mshots/v1/https://aether-gride-production.vercel.app/?w=600"
+              image="/aether-gride.png"
               link="https://aether-gride-production.vercel.app/"
               githubLink="https://github.com/aayushsinha30"
             />
@@ -762,7 +762,7 @@ export default function PageMain(): React.ReactElement {
               category="NextJS / Voting"
               description="A secure voting interface with a polished UI for reliable decision-making."
               color="bg-red-500"
-              image="https://s.wordpress.com/mshots/v1/https://voter-ten-tan.vercel.app/?w=600"
+              image="/voter-ten-tan.png"
               link="https://voter-ten-tan.vercel.app/"
               githubLink="https://github.com/aayushsinha30"
             />
@@ -772,7 +772,7 @@ export default function PageMain(): React.ReactElement {
               category="NextJS / Agritech"
               description="An agriculture-focused dashboard designed for smarter farm operations and insight."
               color="bg-yellow-400"
-              image="https://s.wordpress.com/mshots/v1/https://agrix-ivory.vercel.app/?w=600"
+              image="/agrix-ivory.png"
               link="https://agrix-ivory.vercel.app/"
               githubLink="https://github.com/aayushsinha30"
             />
